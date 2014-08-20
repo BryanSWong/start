@@ -1,5 +1,9 @@
 function hello(){
 
-return console.log("Hello World");
+var math = 2+ 2;
+
+var text = "I know math, 2 + 2 = ";
+
+return console.log(text + math);
 
 }

@@ -1,5 +1,7 @@
 function hello(){
 
-return console.log("Hello World");
+var text = "Happy day today";
+
+return console.log(text);
 
 }
